@@ -1,5 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-
+//practice
+//変更1
+//変更2
 public class BankAccount
 {
     private readonly string _accountId;
