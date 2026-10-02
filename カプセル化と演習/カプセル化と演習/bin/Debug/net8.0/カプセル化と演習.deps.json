@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "カプセル化と演習/1.0.0": {
+        "runtime": {
+          "カプセル化と演習.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "カプセル化と演習/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
